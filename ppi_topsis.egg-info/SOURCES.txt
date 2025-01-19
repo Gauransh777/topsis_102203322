@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+TOPSIS-GAURANSH-102203322/__init__.py
+TOPSIS-GAURANSH-102203322/topsis.py
+ppi_topsis.egg-info/PKG-INFO
+ppi_topsis.egg-info/SOURCES.txt
+ppi_topsis.egg-info/dependency_links.txt
+ppi_topsis.egg-info/entry_points.txt
+ppi_topsis.egg-info/requires.txt
+ppi_topsis.egg-info/top_level.txt
