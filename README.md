@@ -15,7 +15,7 @@ TOPSIS is a decision-making method that ranks alternatives based on their closen
 To install the package from PyPI, run the following command:
 
 ```bash
-pip install topsis-gauransh-102203322
+pip install TOPSIS-GAURANSH-102203322
 ```
 ---
 ## Usage
@@ -100,3 +100,4 @@ topsis <InputDataFile> <Weights> <Impacts> <ResultFileName>
 Ensure the following Python libraries are installed:
 - `pandas`
 - `numpy`
+
